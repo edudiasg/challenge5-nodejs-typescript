@@ -19,7 +19,7 @@
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [NodeJs](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## ✍️ Authors <a name = "authors"></a>
